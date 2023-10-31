@@ -1,8 +1,9 @@
-# React + Vite
+# Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a playground during my learning of Framer Motion 
 
-Currently, two official plugins are available:
+## What is Framer Motion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Framer Motion is a production-ready React animation and gesture library. It's fast, flexible, and declarative. Each component is built for ease of use, accessibility, and the practical needs of complex animations.
+
+Framer motion can help us to create interactive animations that can be used with React components. It is a library that is built on top of the react-spring library. It is a production-ready library that can be used to create complex animations.
