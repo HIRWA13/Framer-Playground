@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  padding: 5rem;
+}
+
+.box-container {
+  padding-bottom: 20rem;
+}
+
+.box1 {
+  width: 20rem;
+  height: 20rem;
+  background-color: aquamarine;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
