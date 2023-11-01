@@ -22,3 +22,16 @@
   justify-content: center;
   cursor: pointer;
 }
+
+.smallBoxes {
+  display: flex;
+  gap: 0.5rem;
+}
+.boxItem {
+  list-style: none;
+  width: 0.5rem;
+  height: 0.5rem;
+  padding: 0.6rem;
+  background-color: white;
+  margin: 0.3rem;
+}
